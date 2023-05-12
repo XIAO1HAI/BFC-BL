@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # BFC-BL: Few-Shot Classification and Segmentation combining Bi-directional Feature Correlation and Boundary constraint
 
-![BFC-BL](assets/BFC-BL.png)
+![BFC-BL](./assets/BFC-BL.png)
 
 ##  Environmnet installation
 

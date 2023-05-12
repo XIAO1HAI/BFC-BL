@@ -1,6 +1,6 @@
 # BFC-BL: Few-Shot Classification and Segmentation combining Bi-directional Feature Correlation and Boundary constraint
 
-![result](../../../BMVC会议/images/result.png)
+![result](assets/result.png)
 
 The file structure should be as follows:
 
@@ -107,12 +107,12 @@ python main.py --datapath YOUR_DATASET_DIR \
 
 **Results of ablation experiments for hyperparameter *α* in boundary constraints:**
 
-![image-20230512173406773](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20230512173406773.png)
+![table2](assets/table2.png)
 
 **Ablation experimental results of each module of the proposed model."✓" means that the model adds this module, and "✘" means that the model removes this module:**
 
-![image-20230512173420808](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20230512173420808.png)
+![table3](assets/table3.png)
 
 **Comparison of model accuracy and convergence speed of mIoU training.Figure (a) with training accuracy on the left and Figure (b) with the convergence of sum and mIoU.**
 
-![er_miou](../../../BMVC会议/images/er_miou.png)
+![er_miou](assets/er_miou.png)

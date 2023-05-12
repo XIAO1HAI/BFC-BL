@@ -1,6 +1,6 @@
 # BFC-BL: Few-Shot Classification and Segmentation combining Bi-directional Feature Correlation and Boundary constraint
 
-![BFC-BL模型总体框图](../../BMVC会议/images/BFC-BL模型总体框图.png)
+![BFC-BL模型总体框图](../../BFC-BL/BFC-BL_Model_Architecture.png)
 
 ##  Environmnet installation
 
